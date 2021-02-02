@@ -2,11 +2,6 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url] <br/>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-overtime.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/fixed-bugs.svg)](https://forthebadge.com)
-
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Shunshun%20✨&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 🔭 Currently **working on** : Secure Stripe inplementation with Firebase and React <br/>
