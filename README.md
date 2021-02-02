@@ -12,7 +12,6 @@
 🔭 Currently **working on** : Secure Stripe inplementation with Firebase and React <br/>
 🌱 Currently **learning** : TypeScript <br/>
 💬 Ask me about my new **anime** obsession <br/>
-⚡ Fun fact : I ate ghost pepper sauce everyday for a year, ask me what happened afterwards...<br/>
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=444
