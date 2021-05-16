@@ -4,8 +4,8 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Shunshun%20✨&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-🔭 Currently looking for new **opportunities** <br/>
-🌱 Currently **learning** : TypeScript <br/>
+🔭 Currently working at **Marmoset** <br/>
+🌱 Currently **learning** : Front End Performance Optimizations <br/>
 💬 Ask me about my new **anime** obsession <br/>
 
 
