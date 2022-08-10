@@ -18,6 +18,8 @@
 #### _Feel free to reach out if you'd like to chat about tech, pc gaming or anime!_
 [![Gmail Badge](https://img.shields.io/badge/-shunshunlyu1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shunshunlyu1998@gmail.com)](shunshunlyu1998@gmail.com)
 
+🧑‍💻
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -41,6 +43,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 
 🎮
+
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat-square&logo=ea&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
 
