@@ -15,7 +15,7 @@
 # About ME 💬 :
 
 ### > Full Stack Web Dev specializing in JavaScript, React, and Ruby on Rails.
-#### _Feel free to reach out if you'd like to chat about tech, pc gaming or anime!_
+#### _Feel free to reach out if you'd like to chat about tech, gaming or anime!_
 [![Gmail Badge](https://img.shields.io/badge/-shunshunlyu1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shunshunlyu1998@gmail.com)](shunshunlyu1998@gmail.com)
 
 🧑‍💻
