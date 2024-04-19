@@ -48,5 +48,3 @@
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShunshunL&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShunshunL.ShunshunL)
